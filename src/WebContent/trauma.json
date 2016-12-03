@@ -1,0 +1,2918 @@
+[
+  {
+    "name": "Abrazo West Campus",
+    "level": "Level II Trauma Center",
+    "latitude": 33.4625569,
+    "longitude": -112.3521489
+  },
+  {
+    "name": "Affinity Medical Center",
+    "level": "Level III Trauma Center",
+    "latitude": 40.80632,
+    "longitude": -81.5170646
+  },
+  {
+    "name": "Akron Children\u0027s Hospital",
+    "level": "Level II Pediatric Trauma Center",
+    "latitude": 41.0786679,
+    "longitude": -81.5263403
+  },
+  {
+    "name": "Alameda Health System, Highland Hospital",
+    "level": "Level II Trauma Center",
+    "latitude": 37.7985416,
+    "longitude": -122.2316531
+  },
+  {
+    "name": "Alaska Native Medical Center",
+    "level": "Level II Trauma Center",
+    "latitude": 61.1827424,
+    "longitude": -149.8006627
+  },
+  {
+    "name": "Albany Medical Center",
+    "level": "Level I Trauma Center",
+    "latitude": 42.6547387,
+    "longitude": -73.7889689
+  },
+  {
+    "name": "Altru Health System",
+    "level": "Level II Trauma Center",
+    "latitude": 47.910678,
+    "longitude": -97.0686922
+  },
+  {
+    "name": "Anna Jaques Hospital",
+    "level": "Level III Trauma Center",
+    "latitude": 42.8144014,
+    "longitude": -70.8909165
+  },
+  {
+    "name": "Antelope Valley Hospital",
+    "level": "Level II Trauma Center",
+    "latitude": 34.6881691,
+    "longitude": -118.1582566
+  },
+  {
+    "name": "Arkansas Children\u0027s Hospital",
+    "level": "Level I Pediatric Trauma Center",
+    "latitude": 34.7359274,
+    "longitude": -92.2975183
+  },
+  {
+    "name": "Arrowhead Regional Medical Center",
+    "level": "Level II Trauma Center",
+    "latitude": 34.0740531,
+    "longitude": -117.351059
+  },
+  {
+    "name": "Aspirus Wausau Hospital",
+    "level": "Level II Trauma Center",
+    "latitude": 44.9660256,
+    "longitude": -89.6676853
+  },
+  {
+    "name": "AtlantiCare Regional Medical Center",
+    "level": "Level II Trauma Center",
+    "latitude": 39.3585111,
+    "longitude": -74.4342481
+  },
+  {
+    "name": "Atrium Medical Center",
+    "level": "Level III Trauma Center",
+    "latitude": 39.499387,
+    "longitude": -84.3147897
+  },
+  {
+    "name": "Aultman Hospital",
+    "level": "Level II Trauma Center",
+    "latitude": 40.7959671,
+    "longitude": -81.4035536
+  },
+  {
+    "name": "Aurora BayCare Medical Center",
+    "level": "Level II Trauma Center",
+    "latitude": 44.4749581,
+    "longitude": -87.9406703
+  },
+  {
+    "name": "Aurora Medical Center - Summit",
+    "level": "Level II Trauma Center",
+    "latitude": 43.0656747,
+    "longitude": -88.4674576
+  },
+  {
+    "name": "Avera McKennan Hospital \u0026 University Health Center",
+    "level": "Level II Trauma Center",
+    "latitude": 43.5343678,
+    "longitude": -96.7119495
+  },
+  {
+    "name": "Avera Sacred Heart Hospital",
+    "level": "Level III Trauma Center",
+    "latitude": 42.8725156,
+    "longitude": -97.4068577
+  },
+  {
+    "name": "Avera St. Luke\u0027s Hospital",
+    "level": "Level III Trauma Center",
+    "latitude": 45.4616289,
+    "longitude": -98.4782727
+  },
+  {
+    "name": "Banner – University Medical Center Phoenix",
+    "level": "Level I Trauma Center",
+    "latitude": 33.4636012,
+    "longitude": -112.0535987
+  },
+  {
+    "name": "Banner Baywood Medical Center",
+    "level": "Level III Trauma Center",
+    "latitude": 33.4113555,
+    "longitude": -111.6874923
+  },
+  {
+    "name": "Banner University Medical Center - Tucson",
+    "level": "Level I Trauma Center",
+    "latitude": 32.2410621,
+    "longitude": -110.9458182
+  },
+  {
+    "name": "Barnes-Jewish Hospital",
+    "level": "Level I Trauma Center",
+    "latitude": 38.6352536,
+    "longitude": -90.2648301
+  },
+  {
+    "name": "Barton Memorial Hospital",
+    "level": "Level III Trauma Center",
+    "latitude": 38.911636,
+    "longitude": -119.9977995
+  },
+  {
+    "name": "Bassett Medical Center",
+    "level": "Level II Trauma Center",
+    "latitude": 42.6958997,
+    "longitude": -74.9227839
+  },
+  {
+    "name": "Bayhealth Kent General Hospital",
+    "level": "Level III Trauma Center",
+    "latitude": 39.1512959,
+    "longitude": -75.5236202
+  },
+  {
+    "name": "Bayhealth Milford Memorial",
+    "level": "Level III Trauma Center",
+    "latitude": 38.9071836,
+    "longitude": -75.4326392
+  },
+  {
+    "name": "Baylor Scott \u0026 White Hillcrest Medical Center",
+    "level": "Level II Trauma Center",
+    "latitude": 31.4891895,
+    "longitude": -97.1572588
+  },
+  {
+    "name": "Baylor University Medical Center at Dallas",
+    "level": "Level I Trauma Center",
+    "latitude": 32.7962048,
+    "longitude": -96.7694752
+  },
+  {
+    "name": "Baystate Medical Center",
+    "level": "Level I Adult, Level II Pediatric Trauma Center",
+    "latitude": 42.1216158,
+    "longitude": -72.6037013
+  },
+  {
+    "name": "Beaumont Health System - Grosse Pointe",
+    "level": "Level III Trauma Center",
+    "latitude": 42.3844636,
+    "longitude": -82.9143608
+  },
+  {
+    "name": "Beaumont Health System-Troy",
+    "level": "Level II Trauma Center",
+    "latitude": 42.6182555,
+    "longitude": -83.0923913
+  },
+  {
+    "name": "Beaumont Hospital - Royal Oak Campus",
+    "level": "Level I Adult, Level II Pediatric Trauma Center",
+    "latitude": 42.5183235,
+    "longitude": -83.15954
+  },
+  {
+    "name": "Beaumont Hospital - Trenton",
+    "level": "Level II Trauma Center",
+    "latitude": 42.116945,
+    "longitude": -83.213649
+  },
+  {
+    "name": "Beaumont Hospital - Wayne",
+    "level": "Level III Trauma Center",
+    "latitude": 42.2733176,
+    "longitude": -83.3647434
+  },
+  {
+    "name": "Beaumont Hospital- Dearborn",
+    "level": "Level II Trauma Center",
+    "latitude": 42.291762,
+    "longitude": -83.2115768
+  },
+  {
+    "name": "Beaumont Hospital Farmington Hills",
+    "level": "Level II Trauma Center",
+    "latitude": 42.4463654,
+    "longitude": -83.3235459
+  },
+  {
+    "name": "Beebe Healthcare",
+    "level": "Level III Trauma Center",
+    "latitude": 38.7745565,
+    "longitude": -75.1393498
+  },
+  {
+    "name": "Bellevue Hospital Center",
+    "level": "Level I Trauma Center",
+    "latitude": 42.8955195,
+    "longitude": -78.7342693
+  },
+  {
+    "name": "Ben Taub Hospital - Harris Health System",
+    "level": "Level I Trauma Center",
+    "latitude": 29.7108491,
+    "longitude": -95.3942878
+  },
+  {
+    "name": "Benefis Hospitals",
+    "level": "Level II Trauma Center",
+    "latitude": 47.4917161,
+    "longitude": -111.2608696
+  },
+  {
+    "name": "Berkeley Medical Center",
+    "level": "Level III Trauma Center",
+    "latitude": 39.476443,
+    "longitude": -77.980184
+  },
+  {
+    "name": "Berkshire Medical Center",
+    "level": "Level III Trauma Center",
+    "latitude": 42.459638,
+    "longitude": -73.2492284
+  },
+  {
+    "name": "Beth Israel Deaconess Medical Center",
+    "level": "Level I Trauma Center",
+    "latitude": 42.3397152,
+    "longitude": -71.1050159
+  },
+  {
+    "name": "Bethesda North Hospital",
+    "level": "Level III Trauma Center",
+    "latitude": 39.2520851,
+    "longitude": -84.3410789
+  },
+  {
+    "name": "Beverly Hospital",
+    "level": "Level III Trauma Center",
+    "latitude": 42.5640551,
+    "longitude": -70.8754852
+  },
+  {
+    "name": "Billings Clinic",
+    "level": "Level II Trauma Center",
+    "latitude": 45.7896391,
+    "longitude": -108.513216
+  },
+  {
+    "name": "Blake Medical Center",
+    "level": "Level II Trauma Center",
+    "latitude": 27.4822425,
+    "longitude": -82.6233649
+  },
+  {
+    "name": "Blanchard Valley Hospital",
+    "level": "Level III Trauma Center",
+    "latitude": 41.01785,
+    "longitude": -83.651653
+  },
+  {
+    "name": "Borgess Medical Center",
+    "level": "Level II Trauma Center",
+    "latitude": 42.3079553,
+    "longitude": -85.5601096
+  },
+  {
+    "name": "Boston Children\u0027s Hospital",
+    "level": "Level I Pediatric Trauma Center",
+    "latitude": 42.3373982,
+    "longitude": -71.104968
+  },
+  {
+    "name": "Boston Medical Center",
+    "level": "Level I Adult, Level II Pediatric Trauma Center",
+    "latitude": 42.3377967,
+    "longitude": -71.0705763
+  },
+  {
+    "name": "Boulder Community Hospital",
+    "level": "Level II Trauma Center",
+    "latitude": 40.0163244,
+    "longitude": -105.2362488
+  },
+  {
+    "name": "Bozeman Health Deaconess Hospital",
+    "level": "Level III Trauma Center",
+    "latitude": 45.6698461,
+    "longitude": -111.019974
+  },
+  {
+    "name": "Bridgeport Hospital",
+    "level": "Level II Trauma Center",
+    "latitude": 41.1887903,
+    "longitude": -73.1658783
+  },
+  {
+    "name": "Brigham and Women\u0027s Hospital",
+    "level": "Level I Trauma Center",
+    "latitude": 42.3360887,
+    "longitude": -71.1067067
+  },
+  {
+    "name": "Bronson Methodist Hospital",
+    "level": "Level I Trauma Center",
+    "latitude": 42.3042239,
+    "longitude": -85.5869352
+  },
+  {
+    "name": "Brooke Army Medical Center",
+    "level": "Level I Trauma Center",
+    "latitude": 29.4607701,
+    "longitude": -98.4162397
+  },
+  {
+    "name": "Bryan Medical Center",
+    "level": "Level II Trauma Center",
+    "latitude": 40.7894293,
+    "longitude": -96.6980919
+  },
+  {
+    "name": "Cabell Huntington Hospital",
+    "level": "Level II Trauma Center",
+    "latitude": 38.409587,
+    "longitude": -82.427083
+  },
+  {
+    "name": "California Hospital Medical Center",
+    "level": "Level II Trauma Center",
+    "latitude": 34.0373956,
+    "longitude": -118.2657814
+  },
+  {
+    "name": "Camden Clark Medical Center",
+    "level": "Level III Trauma Center",
+    "latitude": 39.2696181,
+    "longitude": -81.5599487
+  },
+  {
+    "name": "Capital Health Regional Medical Center",
+    "level": "Level II Trauma Center",
+    "latitude": 40.2359566,
+    "longitude": -74.7519114
+  },
+  {
+    "name": "Carolinas Medical Center",
+    "level": "Level I Adult, Level II Pediatric Trauma Center",
+    "latitude": 35.2032096,
+    "longitude": -80.8386534
+  },
+  {
+    "name": "Cedars-Sinai Medical Center",
+    "level": "Level I Trauma Center",
+    "latitude": 34.075153,
+    "longitude": -118.3802766
+  },
+  {
+    "name": "CentraCare St. Cloud Hospital",
+    "level": "Level II Trauma Center",
+    "latitude": 45.5752252,
+    "longitude": -94.1692777
+  },
+  {
+    "name": "Central Maine Medical Center",
+    "level": "Level II Trauma Center",
+    "latitude": 44.1020196,
+    "longitude": -70.214582
+  },
+  {
+    "name": "Charleston Area Medical Center",
+    "level": "Level I Trauma Center",
+    "latitude": 38.3480428,
+    "longitude": -81.6265755
+  },
+  {
+    "name": "CHI Health Good Samaritan",
+    "level": "Level II Trauma Center",
+    "latitude": 40.7076254,
+    "longitude": -99.0818136
+  },
+  {
+    "name": "CHI Health St. Francis",
+    "level": "Level III Trauma Center",
+    "latitude": 40.925789,
+    "longitude": -98.3715967
+  },
+  {
+    "name": "CHI St. Alexius Health",
+    "level": "Level II Trauma Center",
+    "latitude": 46.8076262,
+    "longitude": -100.7775537
+  },
+  {
+    "name": "CHI St. Joseph Health",
+    "level": "Level II Trauma Center",
+    "latitude": 30.6563472,
+    "longitude": -96.3469679
+  },
+  {
+    "name": "Children\u0027s Hospital \u0026  Medical Center",
+    "level": "Level II Pediatric Trauma Center",
+    "latitude": 41.2601971,
+    "longitude": -96.0419651
+  },
+  {
+    "name": "Children\u0027s Hospital and Clinics of Minnesota-Minneapolis",
+    "level": "Level I Pediatric Trauma Center",
+    "latitude": 44.9565429,
+    "longitude": -93.26178
+  },
+  {
+    "name": "Children\u0027s Hospital Colorado",
+    "level": "Level I Pediatric Trauma Center",
+    "latitude": 39.7503186,
+    "longitude": -104.8367063
+  },
+  {
+    "name": "Children\u0027s Hospital Los Angeles",
+    "level": "Level I Pediatric Trauma Center",
+    "latitude": 34.0436523,
+    "longitude": -118.4356143
+  },
+  {
+    "name": "Children\u0027s Hospital of Michigan",
+    "level": "Level I Pediatric Trauma Center",
+    "latitude": 42.3515884,
+    "longitude": -83.0546483
+  },
+  {
+    "name": "Children\u0027s Hospital of Wisconsin",
+    "level": "Level I Pediatric Trauma Center",
+    "latitude": 43.0513426,
+    "longitude": -88.0411993
+  },
+  {
+    "name": "Children\u0027s Medical Center of Dallas",
+    "level": "Level I Pediatric Trauma Center",
+    "latitude": 32.8095005,
+    "longitude": -96.837669
+  },
+  {
+    "name": "Children\u0027s National Health System",
+    "level": "Level I Pediatric Trauma Center",
+    "latitude": 38.9273107,
+    "longitude": -77.014524
+  },
+  {
+    "name": "Christiana Care Health System",
+    "level": "Level I Trauma Center",
+    "latitude": 39.6878859,
+    "longitude": -75.668995
+  },
+  {
+    "name": "CHRISTUS Spohn Hospital Corpus Christi Memorial",
+    "level": "Level II Trauma Center",
+    "latitude": 27.7799833,
+    "longitude": -97.416511
+  },
+  {
+    "name": "Cincinnati Children\u0027s Hospital",
+    "level": "Level I Pediatric Trauma Center",
+    "latitude": 39.1540971,
+    "longitude": -84.485507
+  },
+  {
+    "name": "Clear Lake Regional Medical Center",
+    "level": "Level II Trauma Center",
+    "latitude": 29.5403938,
+    "longitude": -95.1274024
+  },
+  {
+    "name": "Cleveland Clinic Akron General",
+    "level": "Level I Trauma Center",
+    "latitude": 41.0782747,
+    "longitude": -81.5324734
+  },
+  {
+    "name": "Cleveland Clinic Hillcrest Hospital",
+    "level": "Level II Trauma Center",
+    "latitude": 41.5190462,
+    "longitude": -81.4356017
+  },
+  {
+    "name": "Community Regional Medical Center",
+    "level": "Level I Trauma Center",
+    "latitude": 36.7428148,
+    "longitude": -119.7840085
+  },
+  {
+    "name": "Concord Hospital",
+    "level": "Level III Trauma Center",
+    "latitude": 43.1977632,
+    "longitude": -71.5616718
+  },
+  {
+    "name": "Cone Health-Moses Cone Hospital Campus",
+    "level": "Level II Trauma Center",
+    "latitude": 36.0910211,
+    "longitude": -79.7865821
+  },
+  {
+    "name": "Connecticut Children\u0027s Medical Center",
+    "level": "Level I Pediatric Trauma Center",
+    "latitude": 41.7536076,
+    "longitude": -72.6818236
+  },
+  {
+    "name": "Conroe Regional Medical Center",
+    "level": "Level II Trauma Center",
+    "latitude": 30.2847098,
+    "longitude": -95.4677617
+  },
+  {
+    "name": "Cook Children\u0027s Medical Center",
+    "level": "Level II Pediatric Trauma Center",
+    "latitude": 32.7370544,
+    "longitude": -97.3413636
+  },
+  {
+    "name": "Cooper University Health Care",
+    "level": "Level I Adult, Level II Pediatric Trauma Center",
+    "latitude": 39.9415887,
+    "longitude": -75.116917
+  },
+  {
+    "name": "Covenant HealthCare",
+    "level": "Level II Adult, Level II Pediatric Trauma Center",
+    "latitude": 43.4284777,
+    "longitude": -83.956592
+  },
+  {
+    "name": "Covenant Medical Center",
+    "level": "Level II Trauma Center",
+    "latitude": 33.5691904,
+    "longitude": -101.8977271
+  },
+  {
+    "name": "Crittenton Hospital Medical Center",
+    "level": "Level III Trauma Center",
+    "latitude": 42.6807334,
+    "longitude": -83.1492553
+  },
+  {
+    "name": "Danbury Hospital",
+    "level": "Level II Trauma Center",
+    "latitude": 41.4050857,
+    "longitude": -73.446289
+  },
+  {
+    "name": "Dartmouth-Hitchcock Medical Center",
+    "level": "Level I Trauma Center",
+    "latitude": 43.6773922,
+    "longitude": -72.2715252
+  },
+  {
+    "name": "Dayton Children\u0027s",
+    "level": "Level II Pediatric Trauma Center",
+    "latitude": 39.774903,
+    "longitude": -84.16721
+  },
+  {
+    "name": "Deaconess Hospital",
+    "level": "Level II Trauma Center",
+    "latitude": 37.9830836,
+    "longitude": -87.5712565
+  },
+  {
+    "name": "Del Sol Medical Center",
+    "level": "Level II Trauma Center",
+    "latitude": 31.7567818,
+    "longitude": -106.350398
+  },
+  {
+    "name": "Dell Children\u0027s Medical Center of Central Texas",
+    "level": "Level I Pediatric Trauma Center",
+    "latitude": 30.3081307,
+    "longitude": -97.681943
+  },
+  {
+    "name": "Denver Health Medical Center",
+    "level": "Level I Adult, Level II Pediatric Trauma Center",
+    "latitude": 39.7282404,
+    "longitude": -104.9910801
+  },
+  {
+    "name": "Detroit Medical Center - Sinai-Grace Hospital",
+    "level": "Level II Trauma Center",
+    "latitude": 42.4191069,
+    "longitude": -83.182279
+  },
+  {
+    "name": "Detroit Receiving Hospital",
+    "level": "Level I Trauma Center",
+    "latitude": 42.348495,
+    "longitude": -83.0602998
+  },
+  {
+    "name": "Dignity Health Chandler Regional Medical Center",
+    "level": "Level I Trauma Center",
+    "latitude": 33.2973867,
+    "longitude": -111.8746054
+  },
+  {
+    "name": "Dignity Health Northridge Hospital Medical Center",
+    "level": "Level II Trauma Center",
+    "latitude": 34.2200955,
+    "longitude": -118.5331136
+  },
+  {
+    "name": "Dignity Health St. Joseph\u0027s Hospital and Medical Center",
+    "level": "Level I Trauma Center",
+    "latitude": 33.4819191,
+    "longitude": -112.0793604
+  },
+  {
+    "name": "Doctors Medical Center",
+    "level": "Level II Trauma Center",
+    "latitude": 37.6652146,
+    "longitude": -120.9972995
+  },
+  {
+    "name": "Duke University Hospital",
+    "level": "Level I Trauma Center",
+    "latitude": 36.0070978,
+    "longitude": -78.9371233
+  },
+  {
+    "name": "East Ohio Regional Hospital",
+    "level": "Level III Trauma Center",
+    "latitude": 40.0987269,
+    "longitude": -80.7207234
+  },
+  {
+    "name": "East Texas Medical Center Tyler",
+    "level": "Level I Trauma Center",
+    "latitude": 32.3386431,
+    "longitude": -95.2909844
+  },
+  {
+    "name": "Eastern Idaho Regional Medical Center",
+    "level": "Level II Trauma Center",
+    "latitude": 43.4700469,
+    "longitude": -111.9916136
+  },
+  {
+    "name": "Eastern Maine Medical Center",
+    "level": "Level II Trauma Center",
+    "latitude": 44.8073951,
+    "longitude": -68.7525715
+  },
+  {
+    "name": "Eden Medical Center",
+    "level": "Level II Trauma Center",
+    "latitude": 37.6983405,
+    "longitude": -122.0896915
+  },
+  {
+    "name": "Enloe Medical Center",
+    "level": "Level II Trauma Center",
+    "latitude": 39.7421399,
+    "longitude": -121.8501891
+  },
+  {
+    "name": "Ephraim McDowell Regional Medical Center",
+    "level": "Level III Trauma Center",
+    "latitude": 37.643888,
+    "longitude": -84.773335
+  },
+  {
+    "name": "Erie County Medical Center",
+    "level": "Level I Trauma Center",
+    "latitude": 42.9254225,
+    "longitude": -78.8313324
+  },
+  {
+    "name": "Eskenazi Health",
+    "level": "Level I Trauma Center",
+    "latitude": 39.7794767,
+    "longitude": -86.1700894
+  },
+  {
+    "name": "Essentia Health",
+    "level": "Level II Trauma Center",
+    "latitude": 46.8314368,
+    "longitude": -96.8275928
+  },
+  {
+    "name": "Essentia Health - St. Mary\u0027s Medical Center",
+    "level": "Level II Adult, Level II Pediatric Trauma Center",
+    "latitude": 46.7934861,
+    "longitude": -92.0965971
+  },
+  {
+    "name": "Fairview Hospital",
+    "level": "Level II Trauma Center",
+    "latitude": 41.4501194,
+    "longitude": -81.8238665
+  },
+  {
+    "name": "Firelands Regional Medical Center",
+    "level": "Level III Trauma Center",
+    "latitude": 41.4459948,
+    "longitude": -82.7101312
+  },
+  {
+    "name": "Fisher-Titus Medical Center",
+    "level": "Level III Trauma Center",
+    "latitude": 41.2256991,
+    "longitude": -82.6049137
+  },
+  {
+    "name": "Flagstaff Medical Center",
+    "level": "Level II Trauma Center",
+    "latitude": 35.20832,
+    "longitude": -111.643986
+  },
+  {
+    "name": "Frankfort Regional Medical Center",
+    "level": "Level III Trauma Center",
+    "latitude": 38.1601973,
+    "longitude": -84.905189
+  },
+  {
+    "name": "Froedtert Hospital",
+    "level": "Level I Trauma Center",
+    "latitude": 43.0408561,
+    "longitude": -88.024865
+  },
+  {
+    "name": "Genesis HealthCare System",
+    "level": "Level III Trauma Center",
+    "latitude": 39.9743375,
+    "longitude": -82.0160233
+  },
+  {
+    "name": "Genesys Regional Medical Center",
+    "level": "Level II Trauma Center",
+    "latitude": 42.8921516,
+    "longitude": -83.6422838
+  },
+  {
+    "name": "George Washington University Hospital",
+    "level": "Level I Trauma Center",
+    "latitude": 38.9013368,
+    "longitude": -77.0507854
+  },
+  {
+    "name": "Good Samaritan Hospital - Vincennes",
+    "level": "Level III Trauma Center",
+    "latitude": 38.6727348,
+    "longitude": -87.5328594
+  },
+  {
+    "name": "Good Samaritan Medical Center Lafayette",
+    "level": "Level II Trauma Center",
+    "latitude": 39.9705009,
+    "longitude": -105.0863669
+  },
+  {
+    "name": "Grand Strand Medical Center",
+    "level": "Level II Trauma Center",
+    "latitude": 33.7585214,
+    "longitude": -78.8201676
+  },
+  {
+    "name": "Grandview Medical Center",
+    "level": "Level III Trauma Center",
+    "latitude": 39.7698481,
+    "longitude": -84.2028737
+  },
+  {
+    "name": "Grant Medical Center",
+    "level": "Level I Trauma Center",
+    "latitude": 39.9608078,
+    "longitude": -82.9911888
+  },
+  {
+    "name": "Greene Memorial Hospital",
+    "level": "Level III Trauma Center",
+    "latitude": 39.7025011,
+    "longitude": -83.9311013
+  },
+  {
+    "name": "Gundersen Health System",
+    "level": "Level II Trauma Center",
+    "latitude": 43.7942288,
+    "longitude": -91.2476896
+  },
+  {
+    "name": "Hackensack University Medical Center",
+    "level": "Level II Trauma Center",
+    "latitude": 40.883869,
+    "longitude": -74.0555963
+  },
+  {
+    "name": "Harbor-UCLA Medical Center",
+    "level": "Level I Trauma Center",
+    "latitude": 33.8307253,
+    "longitude": -118.2918447
+  },
+  {
+    "name": "Hartford Hospital",
+    "level": "Level I Trauma Center",
+    "latitude": 41.7541227,
+    "longitude": -72.6791793
+  },
+  {
+    "name": "Hays Medical Center",
+    "level": "Level III Trauma Center",
+    "latitude": 38.878486,
+    "longitude": -99.299245
+  },
+  {
+    "name": "Hennepin County Medical Center",
+    "level": "Level I Adult, Level I Pediatric Trauam Center",
+    "latitude": 44.972815,
+    "longitude": -93.2626598
+  },
+  {
+    "name": "Henry Ford Hospital",
+    "level": "Level I Trauma Center",
+    "latitude": 42.3664506,
+    "longitude": -83.0737195
+  },
+  {
+    "name": "Henry Ford Macomb Hospitals-Clinton Township",
+    "level": "Level II Trauma Center",
+    "latitude": 42.6149,
+    "longitude": -82.9606
+  },
+  {
+    "name": "Henry Ford Wyandotte Hospital",
+    "level": "Level III Trauma Center",
+    "latitude": 42.2101322,
+    "longitude": -83.1476402
+  },
+  {
+    "name": "Henry Mayo Newhall Memorial Hospital",
+    "level": "Level II Trauma Center",
+    "latitude": 34.4167401,
+    "longitude": -118.5618066
+  },
+  {
+    "name": "Honor Health Scottsdale Osborn Medical Center",
+    "level": "Level I Trauma Center",
+    "latitude": 33.4986286,
+    "longitude": -111.9224398
+  },
+  {
+    "name": "HonorHealth Deer Valley Medical Center",
+    "level": "Level III Trauma Center",
+    "latitude": 33.6646545,
+    "longitude": -112.6256745
+  },
+  {
+    "name": "HonorHealth John C. Lincoln Medical Center",
+    "level": "Level I Trauma Center",
+    "latitude": 33.5694587,
+    "longitude": -112.0708775
+  },
+  {
+    "name": "Howard University Hospital",
+    "level": "Level I Trauma Center",
+    "latitude": 38.9175229,
+    "longitude": -77.0199887
+  },
+  {
+    "name": "Huntington Memorial Hospital",
+    "level": "Level II Trauma Center",
+    "latitude": 34.1406082,
+    "longitude": -118.1678543
+  },
+  {
+    "name": "Hurley Medical Center",
+    "level": "Level I Adult, Level II Pediatric Trauma Center",
+    "latitude": 43.0212027,
+    "longitude": -83.7047254
+  },
+  {
+    "name": "Hutchinson Regional Medical Center",
+    "level": "Level III Trauma Center",
+    "latitude": 38.0773088,
+    "longitude": -97.891826
+  },
+  {
+    "name": "Indiana University Health Arnett",
+    "level": "Level III Trauma Center",
+    "latitude": 40.4005669,
+    "longitude": -86.8067127
+  },
+  {
+    "name": "Inova Fairfax Hospital",
+    "level": "Level I Trauma Center",
+    "latitude": 38.8579579,
+    "longitude": -77.2286078
+  },
+  {
+    "name": "Intermountain Medical Center",
+    "level": "Level I Trauma Center",
+    "latitude": 40.6592601,
+    "longitude": -111.8921757
+  },
+  {
+    "name": "Iowa Methodist Medical Center",
+    "level": "Level I Adult, Level II Pediatric Trauma Center",
+    "latitude": 41.5892197,
+    "longitude": -93.6335758
+  },
+  {
+    "name": "IU Health Ball Memorial Hospital",
+    "level": "Level III Trauma Center",
+    "latitude": 40.1968976,
+    "longitude": -85.4146284
+  },
+  {
+    "name": "IU Health Methodist Hospital",
+    "level": "Level I Trauma Center",
+    "latitude": 39.7917918,
+    "longitude": -86.1629534
+  },
+  {
+    "name": "Jackson Memorial Hospital",
+    "level": "Level I Trauma Center",
+    "latitude": 25.7870967,
+    "longitude": -80.2042436
+  },
+  {
+    "name": "Jacobi Medical Center",
+    "level": "Level I Trauma Center",
+    "latitude": 40.8559089,
+    "longitude": -73.8459297
+  },
+  {
+    "name": "Jamaica Hospital Medical Center",
+    "level": "Level I Trauma Center",
+    "latitude": 40.7004297,
+    "longitude": -73.8162599
+  },
+  {
+    "name": "Jersey City Medical Center",
+    "level": "Level II Trauma Center",
+    "latitude": 40.7218318,
+    "longitude": -74.0447003
+  },
+  {
+    "name": "Jersey Shore University Medical Center",
+    "level": "Level II Trauma Center",
+    "latitude": 40.2079578,
+    "longitude": -74.0416912
+  },
+  {
+    "name": "John Muir Medical Center, Walnut Creek",
+    "level": "Level II Trauma Center",
+    "latitude": 37.9130871,
+    "longitude": -122.0408542
+  },
+  {
+    "name": "JPS Health Network",
+    "level": "Level I Trauma Center",
+    "latitude": 32.7272564,
+    "longitude": -97.3272434
+  },
+  {
+    "name": "Kaiser Foundation Hospital - Vacaville",
+    "level": "Level II Trauma Center",
+    "latitude": 38.3885135,
+    "longitude": -121.9380985
+  },
+  {
+    "name": "Kaiser Permanente South Sacramento",
+    "level": "Level II Trauma Center",
+    "latitude": 38.4699104,
+    "longitude": -121.4216412
+  },
+  {
+    "name": "Kalispell Regional Medical Center",
+    "level": "Level III Trauma Center",
+    "latitude": 48.2147675,
+    "longitude": -114.3236773
+  },
+  {
+    "name": "Kendall Regional Medical Center",
+    "level": "Level II Trauma Center",
+    "latitude": 25.7319314,
+    "longitude": -80.385768
+  },
+  {
+    "name": "Kettering Medical Center",
+    "level": "Level II Trauma Center",
+    "latitude": 39.6982756,
+    "longitude": -84.1917029
+  },
+  {
+    "name": "Kootenai Health",
+    "level": "Level III Trauma Center",
+    "latitude": 47.6962908,
+    "longitude": -116.793832
+  },
+  {
+    "name": "Labette Health",
+    "level": "Level III Trauma Center",
+    "latitude": 37.3210885,
+    "longitude": -95.2646156
+  },
+  {
+    "name": "LAC + USC Medical Center",
+    "level": "Level I Trauma Center",
+    "latitude": 34.0577573,
+    "longitude": -118.2081617
+  },
+  {
+    "name": "Lahey Hospital and Medical Center",
+    "level": "Level II Trauma Center",
+    "latitude": 42.4845245,
+    "longitude": -71.2049776
+  },
+  {
+    "name": "Lawnwood Regional Medical Center",
+    "level": "Level II Trauma Center",
+    "latitude": 27.4319627,
+    "longitude": -80.3459279
+  },
+  {
+    "name": "Lawrence General Hospital",
+    "level": "Level III Trauma Center",
+    "latitude": 42.7090766,
+    "longitude": -71.1490385
+  },
+  {
+    "name": "LeBonheur Children\u0027s Hospital",
+    "level": "Level I Pediatric Trauma Center",
+    "latitude": 35.1440449,
+    "longitude": -90.0324372
+  },
+  {
+    "name": "Legacy Emanuel Medical Center",
+    "level": "Level I Trauma Center",
+    "latitude": 45.5435105,
+    "longitude": -122.66996
+  },
+  {
+    "name": "Lima Memorial Health System",
+    "level": "Level II Trauma Center",
+    "latitude": 40.7357209,
+    "longitude": -84.0855169
+  },
+  {
+    "name": "Littleton Adventist Hospital",
+    "level": "Level II Trauma Center",
+    "latitude": 39.5770482,
+    "longitude": -104.9884341
+  },
+  {
+    "name": "Long Beach Memorial Medical Center",
+    "level": "Level II Trauma Center",
+    "latitude": 33.8081073,
+    "longitude": -118.1867435
+  },
+  {
+    "name": "Los Robles Hospital \u0026 Medical Center",
+    "level": "Level II Trauma Center",
+    "latitude": 34.2069857,
+    "longitude": -118.8831028
+  },
+  {
+    "name": "Lowell General Hospital",
+    "level": "Level III Trauma Center",
+    "latitude": 42.647737,
+    "longitude": -71.3422768
+  },
+  {
+    "name": " Rockford ",
+    "level": " Level 1",
+    "latitude": 41.9346897,
+    "longitude": -89.4534574
+  },
+  {
+    "name": " OSF St. Anthony Medical Center ",
+    "level": " Level 1",
+    "latitude": 42.2697876,
+    "longitude": -89.0096654
+  },
+  {
+    "name": " Swedish American Health System ",
+    "level": " Level 2",
+    "latitude": 42.2662171,
+    "longitude": -89.0758006
+  },
+  {
+    "name": " Mercy Medical Center ",
+    "level": " Level 2",
+    "latitude": 42.4922709,
+    "longitude": -90.6762373
+  },
+  {
+    "name": " Advocate BroMenn Medical Center ",
+    "level": " Level 2",
+    "latitude": 40.4974897,
+    "longitude": -88.993724
+  },
+  {
+    "name": " Galesburg Cottage Hospital ",
+    "level": " Level 2",
+    "latitude": 40.9562202,
+    "longitude": -90.3682028
+  },
+  {
+    "name": " Genesis Medical Center ",
+    "level": " Sivlis ",
+    "latitude": 41.4949023,
+    "longitude": -90.4200141
+  },
+  {
+    "name": "Unity Point Health ",
+    "level": " Methodist Medical Center ",
+    "latitude": 40.700643,
+    "longitude": -89.5976108
+  },
+  {
+    "name": " OSF St. Francis Medical Center ",
+    "level": " Level 1",
+    "latitude": 40.7018898,
+    "longitude": -89.5928055
+  },
+  {
+    "name": " OSF St. Joesph Medical Center ",
+    "level": " Level 2",
+    "latitude": 40.4823389,
+    "longitude": -88.9573579
+  },
+  {
+    "name": "OSF St. Mary\u0027s Medical Center ",
+    "level": " Level 2",
+    "latitude": 40.9865174,
+    "longitude": -90.363496
+  },
+  {
+    "name": " Unity Point Health ",
+    "level": " Trinity Medical Center ",
+    "latitude": 41.4826317,
+    "longitude": -90.5728544
+  },
+  {
+    "name": " Blessing Hospital ",
+    "level": " Level 2",
+    "latitude": 39.9372053,
+    "longitude": -91.4012664
+  },
+  {
+    "name": " Memorial Medical Center ",
+    "level": " Level 1",
+    "latitude": 39.8096867,
+    "longitude": -89.6582352
+  },
+  {
+    "name": " St Johns Hospital ",
+    "level": " Level 1 ",
+    "latitude": 39.8066467,
+    "longitude": -89.6474294
+  },
+  {
+    "name": " Carle Foundation Hospital ",
+    "level": " Level 1",
+    "latitude": 40.1178636,
+    "longitude": -88.2160359
+  },
+  {
+    "name": " Advocate Christ Medical Center ",
+    "level": " Level 1",
+    "latitude": 41.7214884,
+    "longitude": -87.7348942
+  },
+  {
+    "name": " Morris Hospital ",
+    "level": " Level 2",
+    "latitude": 41.3691133,
+    "longitude": -88.4276893
+  },
+  {
+    "name": " Presedence St. Joseph Medical Center ",
+    "level": " Level 2",
+    "latitude": 41.5276162,
+    "longitude": -88.1382515
+  },
+  {
+    "name": " Presedence St. Marys Hospital ",
+    "level": " Level 2",
+    "latitude": 41.1205027,
+    "longitude": -87.8742343
+  },
+  {
+    "name": " Riverside Medical Center ",
+    "level": " Level 2",
+    "latitude": 41.1247369,
+    "longitude": -87.8844081
+  },
+  {
+    "name": " Silver Cross Hospital ",
+    "level": " Level 2",
+    "latitude": 41.5445901,
+    "longitude": -87.9855067
+  },
+  {
+    "name": " Adventist Bolingbrook Hospital ",
+    "level": " Level 2",
+    "latitude": 41.6807353,
+    "longitude": -88.0858157
+  },
+  {
+    "name": " Central Dupage Hospital ",
+    "level": " Level 2",
+    "latitude": 41.8738034,
+    "longitude": -88.1577006
+  },
+  {
+    "name": " Edward Hospital ",
+    "level": " Level 2",
+    "latitude": 41.7608821,
+    "longitude": -88.1521946
+  },
+  {
+    "name": " Elmhurst Memorial Hospital ",
+    "level": " Level 2",
+    "latitude": 41.8638942,
+    "longitude": -87.9374338
+  },
+  {
+    "name": " Adventist Glen Oaks Hospital ",
+    "level": " Level 2",
+    "latitude": 41.914658,
+    "longitude": -88.059432
+  },
+  {
+    "name": " Advocate Good Samaritan Hospital ",
+    "level": " Level 1",
+    "latitude": 41.803748,
+    "longitude": -87.9292393
+  },
+  {
+    "name": " Loyola Health System at Gottlieb ",
+    "level": " Level 2",
+    "latitude": 41.9107768,
+    "longitude": -87.8466842
+  },
+  {
+    "name": " Adventist Hinsdale Hospital ",
+    "level": " Level 2",
+    "latitude": 41.8056134,
+    "longitude": -87.9228875
+  },
+  {
+    "name": " Adventist LaGrange Memorial Hospital ",
+    "level": " Level 2",
+    "latitude": 41.7966662,
+    "longitude": -87.8884592
+  },
+  {
+    "name": " Loyola University Medical Center ",
+    "level": " Level 1",
+    "latitude": 41.8613409,
+    "longitude": -87.8363427
+  },
+  {
+    "name": " MacNeal Hospital ",
+    "level": " Level 2",
+    "latitude": 41.832511,
+    "longitude": -87.7943992
+  },
+  {
+    "name": " Alexian Brothers Medical Center ",
+    "level": " Level 2",
+    "latitude": 42.0046882,
+    "longitude": -88.0188319
+  },
+  {
+    "name": " Centegra Hospital ",
+    "level": " Huntley ",
+    "latitude": 42.1791144,
+    "longitude": -88.4049407
+  },
+  {
+    "name": " Centegra Hospital ",
+    "level": " McHenry ",
+    "latitude": 42.3176728,
+    "longitude": -88.28107
+  },
+  {
+    "name": " Delnor Community Hospital ",
+    "level": " Level 2",
+    "latitude": 41.8861849,
+    "longitude": -88.3455403
+  },
+  {
+    "name": " Advocate Good Shepherd Hospital ",
+    "level": " Level 2",
+    "latitude": 42.194753,
+    "longitude": -88.174564
+  },
+  {
+    "name": " Advocate Lutheran General Hospital ",
+    "level": " Level 1",
+    "latitude": 42.0383714,
+    "longitude": -87.8503928
+  },
+  {
+    "name": " Northwest Community Hospital ",
+    "level": " Level 2",
+    "latitude": 42.0671292,
+    "longitude": -87.9951503
+  },
+  {
+    "name": " Presence Mercy Medical Center ",
+    "level": " Level 2",
+    "latitude": 41.7855632,
+    "longitude": -88.3279198
+  },
+  {
+    "name": " Presence St. Joseph Hospital ",
+    "level": " Level 2",
+    "latitude": 42.0353494,
+    "longitude": -88.3280522
+  },
+  {
+    "name": " Rush Copley Medical Center ",
+    "level": " Level 2",
+    "latitude": 41.7293373,
+    "longitude": -88.2724158
+  },
+  {
+    "name": " Advocate Sherman Hospital ",
+    "level": " Level 2",
+    "latitude": 42.0699884,
+    "longitude": -88.3329206
+  },
+  {
+    "name": " St. Alexius Medical Center ",
+    "level": " Level 2",
+    "latitude": 42.0529779,
+    "longitude": -88.1432277
+  },
+  {
+    "name": " Advocate Condell Medical Center ",
+    "level": " Level 1",
+    "latitude": 42.2744805,
+    "longitude": -87.9597596
+  },
+  {
+    "name": " NorthShore Evanston Hospital ",
+    "level": " Level 1",
+    "latitude": 42.048825,
+    "longitude": -87.6883787
+  },
+  {
+    "name": " NorthShore GlenBrook Hospital ",
+    "level": " Level 2",
+    "latitude": 42.0926245,
+    "longitude": -87.8548675
+  },
+  {
+    "name": " NorthShore Highland Park Hospital ",
+    "level": " Level 2",
+    "latitude": 42.18403,
+    "longitude": -87.8033956
+  },
+  {
+    "name": " Northwestern Lake Forest Hospital ",
+    "level": " Level 2",
+    "latitude": 42.2529648,
+    "longitude": -87.8672394
+  },
+  {
+    "name": " NorthShore Skokie Hospital ",
+    "level": " Level 2",
+    "latitude": 42.056245,
+    "longitude": -87.742313
+  },
+  {
+    "name": " St. Francis Hospital ",
+    "level": " Level 1",
+    "latitude": 42.0246495,
+    "longitude": -87.6861759
+  },
+  {
+    "name": " Vista Medical Center East ",
+    "level": " Level 2",
+    "latitude": 42.3780336,
+    "longitude": -87.8347582
+  },
+  {
+    "name": " UHS St. Catherines Medical Center ",
+    "level": " Level 2",
+    "latitude": 42.5644989,
+    "longitude": -87.9263147
+  },
+  {
+    "name": " Advocate Illinois Masonic Medical Center ",
+    "level": " Level 1",
+    "latitude": 41.9367353,
+    "longitude": -87.6549891
+  },
+  {
+    "name": " Northwestern Memorial Hospital ",
+    "level": " Level 1",
+    "latitude": 41.8946296,
+    "longitude": -87.6231798
+  },
+  {
+    "name": " John H Stroger Jr Hospital of Cook County ",
+    "level": " Level 1",
+    "latitude": 41.8724763,
+    "longitude": -87.67648
+  },
+  {
+    "name": " Mt. Sinai Hospital ",
+    "level": " Level 1 ",
+    "latitude": 41.8610111,
+    "longitude": -87.6965944
+  },
+  {
+    "name": "Lutheran Hospital of Indiana",
+    "level": "Level II Adult, Level II Pediatric Trauma Center",
+    "latitude": 41.0390868,
+    "longitude": -85.2498969
+  },
+  {
+    "name": "Maine Medical Center",
+    "level": "Level I Trauma Center",
+    "latitude": 43.6532533,
+    "longitude": -70.2753332
+  },
+  {
+    "name": "Marian Regional Medical Center",
+    "level": "Level III Trauma Center",
+    "latitude": 34.9512414,
+    "longitude": -120.4133339
+  },
+  {
+    "name": "Maricopa Integrated Health System - Maricopa Medical Center",
+    "level": "Level I Adult, Level II Pediatric Trauma Center",
+    "latitude": 33.4576589,
+    "longitude": -112.0261121
+  },
+  {
+    "name": "Marietta Memorial Hospital",
+    "level": "Level III Trauma Center",
+    "latitude": 39.430606,
+    "longitude": -81.464544
+  },
+  {
+    "name": "Marin General Hospital",
+    "level": "Level III Trauma Center",
+    "latitude": 37.9473222,
+    "longitude": -122.5361197
+  },
+  {
+    "name": "Marshall Medical Center",
+    "level": "Level III Trauma Center",
+    "latitude": 38.7247393,
+    "longitude": -120.7914788
+  },
+  {
+    "name": "Massachusetts General Hospital",
+    "level": "Level I Adult, Level I Pediatric Trauam Center",
+    "latitude": 42.3652917,
+    "longitude": -71.0646337
+  },
+  {
+    "name": "Mayo Clinic Health System - Eau Claire",
+    "level": "Level II Trauma Center",
+    "latitude": 44.8123694,
+    "longitude": -91.5122165
+  },
+  {
+    "name": "Mayo Clinic Health System Mankato",
+    "level": "Level III Trauma Center",
+    "latitude": 44.1635295,
+    "longitude": -93.9836738
+  },
+  {
+    "name": "Mayo Clinic Hospital Saint Marys Campus",
+    "level": "Level I Adult, Level I Pediatric Trauam Center",
+    "latitude": 44.0207428,
+    "longitude": -92.4827662
+  },
+  {
+    "name": "McKay-Dee Hospital",
+    "level": "Level II Trauma Center",
+    "latitude": 41.1824731,
+    "longitude": -111.9491139
+  },
+  {
+    "name": "McLaren Flint",
+    "level": "Level III Trauma Center",
+    "latitude": 43.01421,
+    "longitude": -83.732595
+  },
+  {
+    "name": "McLaren Lapeer Region",
+    "level": "Level II Trauma Center",
+    "latitude": 43.0628347,
+    "longitude": -83.320547
+  },
+  {
+    "name": "McLaren Macomb Hospital",
+    "level": "Level II Trauma Center",
+    "latitude": 42.5873156,
+    "longitude": -82.8968951
+  },
+  {
+    "name": "McLaren Oakland",
+    "level": "Level II Trauma Center",
+    "latitude": 42.6385355,
+    "longitude": -83.2907222
+  },
+  {
+    "name": "Medical Center Hospital",
+    "level": "Level II Trauma Center",
+    "latitude": 31.8451981,
+    "longitude": -102.3742895
+  },
+  {
+    "name": "Medical Center Navicent Health",
+    "level": "Level I Trauma Center",
+    "latitude": 32.7918963,
+    "longitude": -83.6029116
+  },
+  {
+    "name": "Medical Center of the Rockies",
+    "level": "Level II Trauma Center",
+    "latitude": 40.4159268,
+    "longitude": -104.9970122
+  },
+  {
+    "name": "Medical University of South Carolina",
+    "level": "Level I Trauma Center",
+    "latitude": 32.784352,
+    "longitude": -79.946823
+  },
+  {
+    "name": "MedStar Washington Hospital Center",
+    "level": "Level I Trauma Center",
+    "latitude": 38.9295004,
+    "longitude": -77.0144985
+  },
+  {
+    "name": "Memorial Hermann Hospital System - Houston",
+    "level": "Level I Adult, Level I Pediatric Trauam Center",
+    "latitude": 29.7050857,
+    "longitude": -95.4018087
+  },
+  {
+    "name": "Memorial Hospital Central",
+    "level": "Level II Trauma Center",
+    "latitude": 38.8393845,
+    "longitude": -104.7994262
+  },
+  {
+    "name": "Memorial Hospital of South Bend",
+    "level": "Level II Trauma Center",
+    "latitude": 41.6840257,
+    "longitude": -86.2520515
+  },
+  {
+    "name": "Memorial Medical Center",
+    "level": "Level II Trauma Center",
+    "latitude": 37.6704504,
+    "longitude": -120.9302603
+  },
+  {
+    "name": "Mercy Health - St. Vincent Medical Center",
+    "level": "Level I Trauma Center",
+    "latitude": 41.6680317,
+    "longitude": -83.5427929
+  },
+  {
+    "name": "Mercy Health Muskegon-Hackley Campus",
+    "level": "Level II Trauma Center",
+    "latitude": 43.2217349,
+    "longitude": -86.2429655
+  },
+  {
+    "name": "Mercy Health Saint Mary\u0027s Campus",
+    "level": "Level II Trauma Center",
+    "latitude": 42.9581317,
+    "longitude": -85.6623148
+  },
+  {
+    "name": "Mercy Hospital",
+    "level": "Level II Trauma Center",
+    "latitude": 45.1848652,
+    "longitude": -93.370974
+  },
+  {
+    "name": "Mercy Hospital and Trauma Center",
+    "level": "Level II Trauma Center",
+    "latitude": 42.6876683,
+    "longitude": -89.0327558
+  },
+  {
+    "name": "Mercy Medical Center - Canton",
+    "level": "Level II Trauma Center",
+    "latitude": 40.8121341,
+    "longitude": -81.396269
+  },
+  {
+    "name": "Mercy Medical Center - Des Moines",
+    "level": "Level II Adult, Level II Pediatric Trauma Center",
+    "latitude": 41.5989873,
+    "longitude": -93.6229402
+  },
+  {
+    "name": "Mercy Medical Center - Sioux City",
+    "level": "Level II Trauma Center",
+    "latitude": 42.495742,
+    "longitude": -96.4009446
+  },
+  {
+    "name": "Mercy San Juan Medical Center",
+    "level": "Level II Trauma Center",
+    "latitude": 38.6696228,
+    "longitude": -121.3140357
+  },
+  {
+    "name": "Mercy St. Charles Hospital",
+    "level": "Level III Trauma Center",
+    "latitude": 41.6349413,
+    "longitude": -83.4856595
+  },
+  {
+    "name": "Methodist Dallas Medical Center",
+    "level": "Level I Trauma Center",
+    "latitude": 32.7604246,
+    "longitude": -96.8257788
+  },
+  {
+    "name": "MetroHealth Medical Center",
+    "level": "Level I Adult, Level II Pediatric Trauma Center",
+    "latitude": 41.461599,
+    "longitude": -81.699429
+  },
+  {
+    "name": "Miami Valley Hospital",
+    "level": "Level I Trauma Center",
+    "latitude": 39.7206965,
+    "longitude": -84.1936203
+  },
+  {
+    "name": "MidMichigan Medical Center - Midland",
+    "level": "Level II Trauma Center",
+    "latitude": 43.6356895,
+    "longitude": -84.2584305
+  },
+  {
+    "name": "Ministry Saint Joseph\u0027s Hospital",
+    "level": "Level II Adult, Level II Pediatric Trauma Center",
+    "latitude": 44.6780444,
+    "longitude": -90.1770418
+  },
+  {
+    "name": "Mission Hospital Regional Medical Center",
+    "level": "Level II Trauma Center",
+    "latitude": 33.6062809,
+    "longitude": -117.6728185
+  },
+  {
+    "name": "Morristown Medical Center",
+    "level": "Level I Trauma Center",
+    "latitude": 40.7894875,
+    "longitude": -74.4655517
+  },
+  {
+    "name": "Mount Carmel West",
+    "level": "Level II Trauma Center",
+    "latitude": 39.9572916,
+    "longitude": -83.02157
+  },
+  {
+    "name": "Mount Sinai St. Luke\u0027s Hospital",
+    "level": "Level II Trauma Center",
+    "latitude": 40.7999209,
+    "longitude": -73.9683102
+  },
+  {
+    "name": "Mountain Vista Medical Center",
+    "level": "Level III Trauma Center",
+    "latitude": 33.391028,
+    "longitude": -111.6153056
+  },
+  {
+    "name": "Munson Medical Center",
+    "level": "Level II Trauma Center",
+    "latitude": 44.7616354,
+    "longitude": -85.6417857
+  },
+  {
+    "name": "Nanticoke Memorial Hospital",
+    "level": "Level III Trauma Center",
+    "latitude": 38.6422067,
+    "longitude": -75.6046615
+  },
+  {
+    "name": "Nationwide Children\u0027s Hospital",
+    "level": "Level I Pediatric Trauma Center",
+    "latitude": 39.9530398,
+    "longitude": -82.979589
+  },
+  {
+    "name": "Nemours Alfred I. duPont Hospital for Children",
+    "level": "Level I Pediatric Trauma Center",
+    "latitude": 39.7793789,
+    "longitude": -75.5552976
+  },
+  {
+    "name": "New Jersey Trauma Center at the University Hospital",
+    "level": "Level I Trauma Center",
+    "latitude": 40.7383636,
+    "longitude": -74.197388
+  },
+  {
+    "name": "New York-Presbyterian/Queens",
+    "level": "Level I Trauma Center",
+    "latitude": 40.7470061,
+    "longitude": -73.8261552
+  },
+  {
+    "name": "North Colorado Medical Center",
+    "level": "Level II Trauma Center",
+    "latitude": 40.414806,
+    "longitude": -104.7089
+  },
+  {
+    "name": "North Fulton Hospital",
+    "level": "Level II Trauma Center",
+    "latitude": 34.063173,
+    "longitude": -84.3198938
+  },
+  {
+    "name": "North Memorial Medical Center",
+    "level": "Level I Adult, Level II Pediatric Trauma Center",
+    "latitude": 45.013944,
+    "longitude": -93.3224025
+  },
+  {
+    "name": "North Oaks Medical Center",
+    "level": "Level II Trauma Center",
+    "latitude": 30.4675706,
+    "longitude": -90.4582989
+  },
+  {
+    "name": "North Shore Medical Center Salem Hospital",
+    "level": "Level III Trauma Center",
+    "latitude": 42.5235097,
+    "longitude": -70.8952337
+  },
+  {
+    "name": "NorthBay Medical Center",
+    "level": "Level II Trauma Center",
+    "latitude": 38.2618553,
+    "longitude": -122.0476112
+  },
+  {
+    "name": "Northwell Health Cohen Children\u0027s Medical Center",
+    "level": "Level I Pediatric Trauma Center",
+    "latitude": 40.7351018,
+    "longitude": -73.6879082
+  },
+  {
+    "name": "Northwell Health North Shore University Hospital",
+    "level": "Level I Trauma Center",
+    "latitude": 40.7776457,
+    "longitude": -73.7016783
+  },
+  {
+    "name": "Northwell Health Southside Hospital",
+    "level": "Level II Trauma Center",
+    "latitude": 40.725733,
+    "longitude": -73.24166
+  },
+  {
+    "name": "Norton Children\u0027s Hospital",
+    "level": "Level I Pediatric Trauma Center",
+    "latitude": 38.2484395,
+    "longitude": -85.7497068
+  },
+  {
+    "name": "Norwalk Hospital",
+    "level": "Level II Trauma Center",
+    "latitude": 41.111322,
+    "longitude": -73.420307
+  },
+  {
+    "name": "NYU Lutheran Medical Center",
+    "level": "Level I Trauma Center",
+    "latitude": 40.6385229,
+    "longitude": -74.0153231
+  },
+  {
+    "name": "Ogden Regional Medical Center",
+    "level": "Level II Trauma Center",
+    "latitude": 41.1643277,
+    "longitude": -111.9690076
+  },
+  {
+    "name": "Ohio Valley Medical Center",
+    "level": "Level II Trauma Center",
+    "latitude": 40.0602017,
+    "longitude": -80.721333
+  },
+  {
+    "name": "OhioHealth Mansfield Hospital",
+    "level": "Level II Trauma Center",
+    "latitude": 40.7525748,
+    "longitude": -82.5280879
+  },
+  {
+    "name": "Orange County Global Medical Center",
+    "level": "Level II Trauma Center",
+    "latitude": 33.7542343,
+    "longitude": -117.8328997
+  },
+  {
+    "name": "Oregon Health \u0026 Science University",
+    "level": "Level I Trauma Center",
+    "latitude": 45.5000365,
+    "longitude": -122.6872675
+  },
+  {
+    "name": "OSF Saint Anthony Medical Center",
+    "level": "Level II Trauma Center",
+    "latitude": 42.2697837,
+    "longitude": -89.0074714
+  },
+  {
+    "name": "OU Medical Center",
+    "level": "Level I Adult, Level I Pediatric Trauam Center",
+    "latitude": 35.4718556,
+    "longitude": -97.5057737
+  },
+  {
+    "name": "Our Lady of the Lake Regional Medical Center",
+    "level": "Level II Trauma Center",
+    "latitude": 30.403958,
+    "longitude": -91.1070679
+  },
+  {
+    "name": "Overland Park Regional Medical Center",
+    "level": "Level II Trauma Center",
+    "latitude": 38.9371818,
+    "longitude": -94.7253632
+  },
+  {
+    "name": "Owensboro Health Regional Hospital",
+    "level": "Level III Trauma Center",
+    "latitude": 37.77,
+    "longitude": -87.11
+  },
+  {
+    "name": "Palmetto Health Richland",
+    "level": "Level I Adult, Level II Pediatric Trauma Center",
+    "latitude": 34.027893,
+    "longitude": -81.031944
+  },
+  {
+    "name": "Palomar Medical Center",
+    "level": "Level II Trauma Center",
+    "latitude": 33.1218939,
+    "longitude": -117.1214691
+  },
+  {
+    "name": "Parkland Health \u0026 Hospital System",
+    "level": "Level I Trauma Center",
+    "latitude": 32.8105071,
+    "longitude": -96.8384314
+  },
+  {
+    "name": "Parkview Medical Center",
+    "level": "Level II Trauma Center",
+    "latitude": 38.2818539,
+    "longitude": -104.6125748
+  },
+  {
+    "name": "Parkview Regional Medical Center",
+    "level": "Level II Adult, Level II Pediatric Trauma Center",
+    "latitude": 41.1884563,
+    "longitude": -85.1016474
+  },
+  {
+    "name": "Penrose Hospital",
+    "level": "Level II Trauma Center",
+    "latitude": 38.8655361,
+    "longitude": -104.8217503
+  },
+  {
+    "name": "Phoenix Children\u0027s Hospital",
+    "level": "Level I Pediatric Trauma Center",
+    "latitude": 33.4790971,
+    "longitude": -112.0402453
+  },
+  {
+    "name": "Pikeville Medical Center",
+    "level": "Level II Trauma Center",
+    "latitude": 37.4726075,
+    "longitude": -82.5261764
+  },
+  {
+    "name": "Portneuf Medical Center",
+    "level": "Level II Trauma Center",
+    "latitude": 42.873913,
+    "longitude": -112.4210182
+  },
+  {
+    "name": "Poudre Valley Hospital",
+    "level": "Level III Trauma Center",
+    "latitude": 40.5719183,
+    "longitude": -105.0566352
+  },
+  {
+    "name": "Primary Children\u0027s Hospital",
+    "level": "Level I Pediatric Trauma Center",
+    "latitude": 40.7706872,
+    "longitude": -111.8383586
+  },
+  {
+    "name": "ProMedica Defiance Regional Hospital",
+    "level": "Level III Trauma Center",
+    "latitude": 41.298516,
+    "longitude": -84.376954
+  },
+  {
+    "name": "ProMedica Toledo Hospital",
+    "level": "Level I Adult, Level II Pediatric Trauma Center",
+    "latitude": 41.6730403,
+    "longitude": -83.5949906
+  },
+  {
+    "name": "Providence Alaska Medical Center",
+    "level": "Level II Trauma Center",
+    "latitude": 61.1880195,
+    "longitude": -149.8210696
+  },
+  {
+    "name": "Providence Health and Services - St. Patrick Hospital",
+    "level": "Level II Trauma Center",
+    "latitude": 46.875725,
+    "longitude": -113.999943
+  },
+  {
+    "name": "Providence Holy Cross Medical Center",
+    "level": "Level II Trauma Center",
+    "latitude": 34.280154,
+    "longitude": -118.460335
+  },
+  {
+    "name": "Providence Hospital \u0026 Medical Center",
+    "level": "Level II Trauma Center",
+    "latitude": 42.4576235,
+    "longitude": -83.2053071
+  },
+  {
+    "name": "Queen of the Valley Medical Center",
+    "level": "Level III Trauma Center",
+    "latitude": 38.3251588,
+    "longitude": -122.2966229
+  },
+  {
+    "name": "Rady Children\u0027s Hospital-San Diego",
+    "level": "Level I Pediatric Trauma Center",
+    "latitude": 32.7980757,
+    "longitude": -117.1513115
+  },
+  {
+    "name": "Raleigh General Hospital",
+    "level": "Level III Trauma Center",
+    "latitude": 37.787543,
+    "longitude": -81.201831
+  },
+  {
+    "name": "Rapid City Regional Hospital",
+    "level": "Level II Trauma Center",
+    "latitude": 44.0573738,
+    "longitude": -103.2252892
+  },
+  {
+    "name": "Rapides Regional Medical Center",
+    "level": "Level II Trauma Center",
+    "latitude": 31.3151413,
+    "longitude": -92.4500652
+  },
+  {
+    "name": "Regional Medical Center of San Jose",
+    "level": "Level II Trauma Center",
+    "latitude": 37.3623124,
+    "longitude": -121.8493151
+  },
+  {
+    "name": "Regional West Medical Center",
+    "level": "Level II Trauma Center",
+    "latitude": 41.8869477,
+    "longitude": -103.6647547
+  },
+  {
+    "name": "Regions Hospital",
+    "level": "Level I Adult, Level I Pediatric Trauam Center",
+    "latitude": 44.9513188,
+    "longitude": -93.0901841
+  },
+  {
+    "name": "Renown Regional Medical Center",
+    "level": "Level II Trauma Center",
+    "latitude": 39.52552,
+    "longitude": -119.7952114
+  },
+  {
+    "name": "Rhode Island Hospital",
+    "level": "Level I Adult, Level I Pediatric Trauam Center",
+    "latitude": 41.816736,
+    "longitude": -71.4091563
+  },
+  {
+    "name": "Richmond University Medical Center",
+    "level": "Level I Adult, Level II Pediatric Trauma Center",
+    "latitude": 40.6357924,
+    "longitude": -74.105962
+  },
+  {
+    "name": "Rideout Regional Medical Center",
+    "level": "Level III Trauma Center",
+    "latitude": 39.1381926,
+    "longitude": -121.5940156
+  },
+  {
+    "name": "Riley Hospital for Children at Indiana University Health",
+    "level": "Level I Pediatric Trauma Center",
+    "latitude": 39.7774285,
+    "longitude": -86.1800805
+  },
+  {
+    "name": "Riverside Methodist Hospital",
+    "level": "Level II Trauma Center",
+    "latitude": 40.0313335,
+    "longitude": -83.0323287
+  },
+  {
+    "name": "Riverside University Health Systems",
+    "level": "Level II Trauma Center",
+    "latitude": 33.9121777,
+    "longitude": -117.1960044
+  },
+  {
+    "name": "Robert Wood Johnson University Hospital",
+    "level": "Level I Adult, Level II Pediatric Trauma Center",
+    "latitude": 40.4953282,
+    "longitude": -74.4498466
+  },
+  {
+    "name": "Ronald Reagan UCLA Medical Center",
+    "level": "Level I Trauma Center",
+    "latitude": 34.070264,
+    "longitude": -118.4440562
+  },
+  {
+    "name": "Sacred Heart Medical Center at RiverBend",
+    "level": "Level II Trauma Center",
+    "latitude": 44.080908,
+    "longitude": -123.0264752
+  },
+  {
+    "name": "Saint Alphonsus Regional Medical Center",
+    "level": "Level II Trauma Center",
+    "latitude": 43.6144822,
+    "longitude": -116.2570968
+  },
+  {
+    "name": "Saint Francis Hospital and Medical Center",
+    "level": "Level II Trauma Center",
+    "latitude": 41.7721061,
+    "longitude": -72.7038047
+  },
+  {
+    "name": "Saint Mary\u0027s Hospital",
+    "level": "Level II Trauma Center",
+    "latitude": 41.5529483,
+    "longitude": -73.0368663
+  },
+  {
+    "name": "Salina Regional Health Center",
+    "level": "Level III Trauma Center",
+    "latitude": 38.833418,
+    "longitude": -97.6101342
+  },
+  {
+    "name": "Sanford Aberdeen Medical Center",
+    "level": "Level III Trauma Center",
+    "latitude": 45.4630785,
+    "longitude": -98.4460604
+  },
+  {
+    "name": "Sanford Medical Center",
+    "level": "Level II Trauma Center",
+    "latitude": 46.8079925,
+    "longitude": -100.7822086
+  },
+  {
+    "name": "Sanford Medical Center Fargo",
+    "level": "Level II Adult, Level II Pediatric Trauma Center",
+    "latitude": 46.8849134,
+    "longitude": -96.78597
+  },
+  {
+    "name": "Sanford USD Medical Center",
+    "level": "Level II Adult, Level II Pediatric Trauma Center",
+    "latitude": 43.5356179,
+    "longitude": -96.7431672
+  },
+  {
+    "name": "Santa Barbara Cottage Hospital",
+    "level": "Level II Adult, Level II Pediatric Trauma Center",
+    "latitude": 34.4216024,
+    "longitude": -119.698259
+  },
+  {
+    "name": "Santa Clara Valley Medical Center",
+    "level": "Level I Adult, Level II Pediatric Trauma Center",
+    "latitude": 37.3132072,
+    "longitude": -121.933458
+  },
+  {
+    "name": "Santa Rosa Memorial Hospital",
+    "level": "Level II Trauma Center",
+    "latitude": 38.4437611,
+    "longitude": -122.701141
+  },
+  {
+    "name": "SBH Health System",
+    "level": "Level II Trauma Center",
+    "latitude": 40.8524914,
+    "longitude": -73.8914036
+  },
+  {
+    "name": "Scott \u0026 White Memorial Hospital - Temple",
+    "level": "Level I Adult, Level II Pediatric Trauma Center",
+    "latitude": 31.0763246,
+    "longitude": -97.3669467
+  },
+  {
+    "name": "Scripps Memorial Hospital",
+    "level": "Level II Trauma Center",
+    "latitude": 32.8850878,
+    "longitude": -117.2254471
+  },
+  {
+    "name": "Scripps Mercy Hospital",
+    "level": "Level I Trauma Center",
+    "latitude": 32.749789,
+    "longitude": -117.1676501
+  },
+  {
+    "name": "Seton Medical Center Williamson",
+    "level": "Level II Trauma Center",
+    "latitude": 30.5668871,
+    "longitude": -97.6512744
+  },
+  {
+    "name": "Sharp Memorial Hospital",
+    "level": "Level II Trauma Center",
+    "latitude": 32.7994945,
+    "longitude": -117.1542381
+  },
+  {
+    "name": "Sierra Vista Regional Medical Center",
+    "level": "Level III Trauma Center",
+    "latitude": 35.2922246,
+    "longitude": -120.6658831
+  },
+  {
+    "name": "Soin Medical Center",
+    "level": "Level III Trauma Center",
+    "latitude": 39.7709515,
+    "longitude": -84.0626514
+  },
+  {
+    "name": "South Nassau Communities Hospital",
+    "level": "Level II Trauma Center",
+    "latitude": 40.6512461,
+    "longitude": -73.6310463
+  },
+  {
+    "name": "South Shore Hospital",
+    "level": "Level II Trauma Center",
+    "latitude": 42.1761091,
+    "longitude": -70.9536172
+  },
+  {
+    "name": "Southwest General Health Center",
+    "level": "Level III Trauma Center",
+    "latitude": 41.369962,
+    "longitude": -81.8320091
+  },
+  {
+    "name": "Sparrow Hospital",
+    "level": "Level I Trauma Center",
+    "latitude": 42.68,
+    "longitude": -84.5
+  },
+  {
+    "name": "Spectrum Health - Butterworth Hospital",
+    "level": "Level I Adult, Level I Pediatric Trauam Center",
+    "latitude": 42.9550596,
+    "longitude": -85.670117
+  },
+  {
+    "name": "SSM Health Saint Louis University Hospital",
+    "level": "Level I Trauma Center",
+    "latitude": 38.6196174,
+    "longitude": -90.2388865
+  },
+  {
+    "name": "St. Anthony Hospital",
+    "level": "Level I Trauma Center",
+    "latitude": 39.7170296,
+    "longitude": -105.1287058
+  },
+  {
+    "name": "St. David\u0027s Round Rock Medical Center",
+    "level": "Level II Trauma Center",
+    "latitude": 30.51113,
+    "longitude": -97.7136376
+  },
+  {
+    "name": "St. Elizabeth Medical Center",
+    "level": "Level III Trauma Center",
+    "latitude": 43.081264,
+    "longitude": -75.2666356
+  },
+  {
+    "name": "St. Elizabeth Youngstown Hospital",
+    "level": "Level I Trauma Center",
+    "latitude": 41.1137989,
+    "longitude": -80.6582814
+  },
+  {
+    "name": "St. Francis Medical Center",
+    "level": "Level II Trauma Center",
+    "latitude": 33.930293,
+    "longitude": -118.2114603
+  },
+  {
+    "name": "St. James Healthcare",
+    "level": "Level III Trauma Center",
+    "latitude": 46.0089412,
+    "longitude": -112.5459921
+  },
+  {
+    "name": "St. John Hospital \u0026 Medical Center",
+    "level": "Level II Adult, Level II Pediatric Trauma Center",
+    "latitude": 42.4192083,
+    "longitude": -82.8963604
+  },
+  {
+    "name": "St. John Macomb - Oakland Hospital",
+    "level": "Level III Trauma Center",
+    "latitude": 42.5057713,
+    "longitude": -83.0048137
+  },
+  {
+    "name": "St. John Medical Center",
+    "level": "Level II Trauma Center",
+    "latitude": 36.1337159,
+    "longitude": -95.966082
+  },
+  {
+    "name": "St. Joseph Mercy Hospital - Ann Arbor",
+    "level": "Level I Trauma Center",
+    "latitude": 42.2634259,
+    "longitude": -83.6597481
+  },
+  {
+    "name": "St. Joseph Mercy Oakland",
+    "level": "Level II Trauma Center",
+    "latitude": 42.6142543,
+    "longitude": -83.2760239
+  },
+  {
+    "name": "St. Joseph Warren Hospital",
+    "level": "Level III Trauma Center",
+    "latitude": 41.2307534,
+    "longitude": -80.7769954
+  },
+  {
+    "name": "St. Joseph\u0027s Regional Medical Center",
+    "level": "Level II Trauma Center",
+    "latitude": 40.8955467,
+    "longitude": -74.156292
+  },
+  {
+    "name": "St. Louis Children\u0027s Hospital",
+    "level": "Level I Pediatric Trauma Center",
+    "latitude": 38.6377169,
+    "longitude": -90.2642791
+  },
+  {
+    "name": "St. Louis Children\u0027s Hospital",
+    "level": "Level I Pediatric Trauma Center",
+    "latitude": 38.6377169,
+    "longitude": -90.2642791
+  },
+  {
+    "name": "St. Luke\u0027s Hospital",
+    "level": "Level II Trauma Center",
+    "latitude": 46.7971801,
+    "longitude": -92.0876163
+  },
+  {
+    "name": "St. Mary Medical Center",
+    "level": "Level II Trauma Center",
+    "latitude": 33.7844997,
+    "longitude": -118.1971031
+  },
+  {
+    "name": "St. Mary Mercy Hospital",
+    "level": "Level II Trauma Center",
+    "latitude": 42.3943459,
+    "longitude": -83.4043441
+  },
+  {
+    "name": "St. Mary\u0027s Hospital and Regional Medical Center",
+    "level": "Level II Trauma Center",
+    "latitude": 39.0904811,
+    "longitude": -108.5627055
+  },
+  {
+    "name": "St. Mary\u0027s Medical Center - Huntington",
+    "level": "Level II Trauma Center",
+    "latitude": 38.432355,
+    "longitude": -82.4006689
+  },
+  {
+    "name": "St. Mary\u0027s Medical Center Evansville",
+    "level": "Level II Adult, Level II Pediatric Trauma Center",
+    "latitude": 37.9643196,
+    "longitude": -87.5040721
+  },
+  {
+    "name": "St. Mary\u0027s of Michigan",
+    "level": "Level II Trauma Center",
+    "latitude": 43.4247841,
+    "longitude": -83.9384673
+  },
+  {
+    "name": "St. Rita\u0027s Medical Center",
+    "level": "Level II Trauma Center",
+    "latitude": 40.7406534,
+    "longitude": -84.1180943
+  },
+  {
+    "name": "St. Rose Dominican - Siena Campus",
+    "level": "Level III Trauma Center",
+    "latitude": 36.0045271,
+    "longitude": -115.1150581
+  },
+  {
+    "name": "St. Vincent Anderson Regional Hospital",
+    "level": "Level III Trauma Center",
+    "latitude": 40.0955671,
+    "longitude": -85.6814411
+  },
+  {
+    "name": "St. Vincent Health Center",
+    "level": "Level II Trauma Center",
+    "latitude": 45.7933628,
+    "longitude": -108.5192115
+  },
+  {
+    "name": "St. Vincent Hospital - Green Bay",
+    "level": "Level II Trauma Center",
+    "latitude": 44.5011765,
+    "longitude": -88.0121586
+  },
+  {
+    "name": "St. Vincent Indianapolis Hospital",
+    "level": "Level I Trauma Center",
+    "latitude": 39.9088713,
+    "longitude": -86.1959319
+  },
+  {
+    "name": "St. Vincent\u0027s Medical Center (CT)",
+    "level": "Level II Trauma Center",
+    "latitude": 41.201187,
+    "longitude": -73.2016535
+  },
+  {
+    "name": "Stamford Hospital",
+    "level": "Level II Trauma Center",
+    "latitude": 41.05,
+    "longitude": -73.54
+  },
+  {
+    "name": "Stanford Health Care",
+    "level": "Level I Adult, Level I Pediatric Trauam Center",
+    "latitude": 37.424106,
+    "longitude": -122.1660756
+  },
+  {
+    "name": "Steward Good Samaritan Medical Center",
+    "level": "Level III Trauma Center",
+    "latitude": 42.098784,
+    "longitude": -71.0607676
+  },
+  {
+    "name": "Stormont -Vail HealthCare",
+    "level": "Level II Trauma Center",
+    "latitude": 39.0526033,
+    "longitude": -95.6964703
+  },
+  {
+    "name": "Summa Akron City Hospital",
+    "level": "Level I Trauma Center",
+    "latitude": 41.0801891,
+    "longitude": -81.5004891
+  },
+  {
+    "name": "Sunrise Hospital and Medical Center",
+    "level": "Level II Trauma Center",
+    "latitude": 36.1332139,
+    "longitude": -115.1362849
+  },
+  {
+    "name": "Sutter Roseville Medical Center",
+    "level": "Level II Trauma Center",
+    "latitude": 38.7424319,
+    "longitude": -121.2511908
+  },
+  {
+    "name": "Swedish Medical Center",
+    "level": "Level I Trauma Center",
+    "latitude": 39.6541703,
+    "longitude": -104.9807177
+  },
+  {
+    "name": "Tampa General Hospital",
+    "level": "Level I Adult, Level I Pediatric Trauam Center",
+    "latitude": 27.9381581,
+    "longitude": -82.4590989
+  },
+  {
+    "name": "Taylor Regional Hospital",
+    "level": "Level III Trauma Center",
+    "latitude": 37.3664276,
+    "longitude": -85.3378037
+  },
+  {
+    "name": "Texas Children\u0027s Hospital",
+    "level": "Level I Pediatric Trauma Center",
+    "latitude": 29.7078637,
+    "longitude": -95.4015767
+  },
+  {
+    "name": "Texas Health Harris Methodist Hospital Fort Worth",
+    "level": "Level II Trauma Center",
+    "latitude": 32.7372508,
+    "longitude": -97.3391024
+  },
+  {
+    "name": "The Medical Center of Aurora",
+    "level": "Level II Trauma Center",
+    "latitude": 39.6900823,
+    "longitude": -104.8323774
+  },
+  {
+    "name": "The Medical Center of Plano",
+    "level": "Level II Trauma Center",
+    "latitude": 33.0212204,
+    "longitude": -96.7660466
+  },
+  {
+    "name": "The Ohio State University Wexner Medical Center",
+    "level": "Level I Trauma Center",
+    "latitude": 39.9935689,
+    "longitude": -83.0205417
+  },
+  {
+    "name": "The Queen\u0027s Medical Center",
+    "level": "Level II Trauma Center",
+    "latitude": 21.3078718,
+    "longitude": -157.8548819
+  },
+  {
+    "name": "The University of Kansas Hospital",
+    "level": "Level I Trauma Center",
+    "latitude": 39.0558421,
+    "longitude": -94.6118324
+  },
+  {
+    "name": "The University of Toledo Medical Center",
+    "level": "Level I Trauma Center",
+    "latitude": 41.6201255,
+    "longitude": -83.6171189
+  },
+  {
+    "name": "The University of Vermont Medical Center",
+    "level": "Level I Trauma Center",
+    "latitude": 44.4796733,
+    "longitude": -73.1941201
+  },
+  {
+    "name": "ThedaCare Regional Medical Center - Neenah",
+    "level": "Level II Trauma Center",
+    "latitude": 44.187021,
+    "longitude": -88.4537599
+  },
+  {
+    "name": "Trinity Hospital",
+    "level": "Level II Trauma Center",
+    "latitude": 48.2321262,
+    "longitude": -101.2938483
+  },
+  {
+    "name": "Trumbull Memorial Hospital",
+    "level": "Level III Trauma Center",
+    "latitude": 41.2355028,
+    "longitude": -80.7983994
+  },
+  {
+    "name": "Tuba City Regional Health Care Corporation",
+    "level": "Level III Trauma Center",
+    "latitude": 36.136177,
+    "longitude": -111.2379308
+  },
+  {
+    "name": "Tufts Medical Center",
+    "level": "Level I Adult, Level I Pediatric Trauam Center",
+    "latitude": 42.3498323,
+    "longitude": -71.0632709
+  },
+  {
+    "name": "UC Irvine Health",
+    "level": "Level I Adult, Level II Pediatric Trauma Center",
+    "latitude": 33.7880681,
+    "longitude": -117.8902578
+  },
+  {
+    "name": "UC San Diego Medical Center",
+    "level": "Level I Trauma Center",
+    "latitude": 32.7545234,
+    "longitude": -117.1658067
+  },
+  {
+    "name": "UCSF Benioff Children\u0027s Hospital Oakland",
+    "level": "Level I Pediatric Trauma Center",
+    "latitude": 37.8368996,
+    "longitude": -122.2671455
+  },
+  {
+    "name": "UMASS Memorial Medical Center",
+    "level": "Level I Adult, Level II Pediatric Trauma Center",
+    "latitude": 42.2776728,
+    "longitude": -71.7616372
+  },
+  {
+    "name": "United Regional",
+    "level": "Level II Trauma Center",
+    "latitude": 33.9028141,
+    "longitude": -98.5016055
+  },
+  {
+    "name": "University Health System - San Antonio",
+    "level": "Level I Adult, Level I Pediatric Trauam Center",
+    "latitude": 29.5066416,
+    "longitude": -98.5768514
+  },
+  {
+    "name": "University Health-Shreveport",
+    "level": "Level I Trauma Center",
+    "latitude": 32.4817585,
+    "longitude": -93.7626265
+  },
+  {
+    "name": "University Hospitals - Rainbow Babies \u0026 Children\u0027s Hospital",
+    "level": "Level I Pediatric Trauma Center",
+    "latitude": 41.5091257,
+    "longitude": -81.6089873
+  },
+  {
+    "name": "University Hospitals - St. John Medical Center",
+    "level": "Level III Trauma Center",
+    "latitude": 41.436532,
+    "longitude": -81.944514
+  },
+  {
+    "name": "University Hospitals Geauga Medical Center",
+    "level": "Level III Trauma Center",
+    "latitude": 41.5080173,
+    "longitude": -81.190121
+  },
+  {
+    "name": "University Hospitals Portage Medical Center",
+    "level": "Level III Trauma Center",
+    "latitude": 41.1755088,
+    "longitude": -81.2493253
+  },
+  {
+    "name": "University Medical Center - Lubbock",
+    "level": "Level I Trauma Center",
+    "latitude": 33.5893439,
+    "longitude": -101.8909869
+  },
+  {
+    "name": "University Medical Center Brackenridge",
+    "level": "Level I Trauma Center",
+    "latitude": 30.2740686,
+    "longitude": -97.7338403
+  },
+  {
+    "name": "University Medical Center New Orleans",
+    "level": "Level I Trauma Center",
+    "latitude": 29.9595769,
+    "longitude": -90.0770127
+  },
+  {
+    "name": "University Medical Center of El Paso",
+    "level": "Level I Trauma Center",
+    "latitude": 31.7715645,
+    "longitude": -106.4344599
+  },
+  {
+    "name": "University Medical Center of Southern Nevada",
+    "level": "Level I Adult, Level II Pediatric Trauma Center",
+    "latitude": 36.1597282,
+    "longitude": -115.1676141
+  },
+  {
+    "name": "University of Alabama at Birmingham Hospital",
+    "level": "Level I Trauma Center",
+    "latitude": 33.5075555,
+    "longitude": -86.8093239
+  },
+  {
+    "name": "University of California, Davis Medical Center",
+    "level": "Level I Adult, Level I Pediatric Trauam Center",
+    "latitude": 38.5549383,
+    "longitude": -121.4567508
+  },
+  {
+    "name": "University of Cincinnati Medical Center",
+    "level": "Level I Trauma Center",
+    "latitude": 39.1269228,
+    "longitude": -84.514354
+  },
+  {
+    "name": "University of Colorado Hospital",
+    "level": "Level II Trauma Center",
+    "latitude": 39.7503186,
+    "longitude": -104.8367063
+  },
+  {
+    "name": "University of Iowa Hospitals \u0026 Clinics",
+    "level": "Level I Adult, Level I Pediatric Trauam Center",
+    "latitude": 41.659363,
+    "longitude": -91.5487099
+  },
+  {
+    "name": "University of Kentucky Albert B. Chandler Hospital",
+    "level": "Level I Adult, Level I Pediatric Trauam Center",
+    "latitude": 38.0311683,
+    "longitude": -84.5073963
+  },
+  {
+    "name": "University of Louisville Hospital",
+    "level": "Level I Trauma Center",
+    "latitude": 38.2480611,
+    "longitude": -85.744415
+  },
+  {
+    "name": "University of Michigan Health System",
+    "level": "Level I Adult, Level I Pediatric Trauam Center",
+    "latitude": 42.3053253,
+    "longitude": -83.6694169
+  },
+  {
+    "name": "University of Minnesota Medical Center",
+    "level": "Level II Trauma Center",
+    "latitude": 44.9741561,
+    "longitude": -93.2342
+  },
+  {
+    "name": "University of Missouri Health System",
+    "level": "Level I Trauma Center",
+    "latitude": 38.9385874,
+    "longitude": -92.3280165
+  },
+  {
+    "name": "University of New Mexico Hospital",
+    "level": "Level I Trauma Center",
+    "latitude": 35.0881912,
+    "longitude": -106.6190589
+  },
+  {
+    "name": "University of North Carolina Hospitals",
+    "level": "Level I Adult, Level I Pediatric Trauam Center",
+    "latitude": 35.9515785,
+    "longitude": -79.0145954
+  },
+  {
+    "name": "University of Rochester Medical Center/Strong Memorial Hospital",
+    "level": "Level I Trauma Center",
+    "latitude": 43.1224766,
+    "longitude": -77.6242574
+  },
+  {
+    "name": "University of Tennessee Medical Center",
+    "level": "Level I Trauma Center",
+    "latitude": 35.9346466,
+    "longitude": -83.9482692
+  },
+  {
+    "name": "University of Texas Medical Branch",
+    "level": "Level I Trauma Center",
+    "latitude": 29.3111514,
+    "longitude": -94.7757592
+  },
+  {
+    "name": "University of Utah Health Care",
+    "level": "Level I Trauma Center",
+    "latitude": 40.7730977,
+    "longitude": -111.837428
+  },
+  {
+    "name": "University of Virginia Health System",
+    "level": "Level I Trauma Center",
+    "latitude": 38.031942,
+    "longitude": -78.498585
+  },
+  {
+    "name": "University of Wisconsin Hospital and Clinics Authority",
+    "level": "Level I Adult, Level I Pediatric Trauam Center",
+    "latitude": 43.0761716,
+    "longitude": -89.4313664
+  },
+  {
+    "name": "UP Health System - Portage",
+    "level": "Level III Trauma Center",
+    "latitude": 47.141302,
+    "longitude": -88.5858028
+  },
+  {
+    "name": "UP Health System-Marquette",
+    "level": "Level II Trauma Center",
+    "latitude": 46.554345,
+    "longitude": -87.400757
+  },
+  {
+    "name": "Upstate University Hospital",
+    "level": "Level I Adult, Level I Pediatric Trauam Center",
+    "latitude": 43.0418643,
+    "longitude": -76.1398344
+  },
+  {
+    "name": "Utah Valley Regional Medical Center",
+    "level": "Level II Trauma Center",
+    "latitude": 40.2479572,
+    "longitude": -111.6657705
+  },
+  {
+    "name": "Vanderbilt University Medical Center",
+    "level": "Level I Trauma Center",
+    "latitude": 36.1413146,
+    "longitude": -86.8018266
+  },
+  {
+    "name": "Ventura County Medical Center",
+    "level": "Level II Trauma Center",
+    "latitude": 34.2766626,
+    "longitude": -119.252029
+  },
+  {
+    "name": "Via Christi Hospital Pittsburg",
+    "level": "Level III Trauma Center",
+    "latitude": 37.3801659,
+    "longitude": -94.6850284
+  },
+  {
+    "name": "Via Christi Hospitals - Wichita",
+    "level": "Level I Trauma Center",
+    "latitude": 37.6991711,
+    "longitude": -97.3317012
+  },
+  {
+    "name": "Vidant Medical Center",
+    "level": "Level I Adult, Level II Pediatric Trauma Center",
+    "latitude": 35.607317,
+    "longitude": -77.4043973
+  },
+  {
+    "name": "Virginia Commonwealth University Medical Center",
+    "level": "Level I Adult, Level I Pediatric Trauam Center",
+    "latitude": 37.5400123,
+    "longitude": -77.4296825
+  },
+  {
+    "name": "Wake Forest Baptist Medical Center",
+    "level": "Level I Adult, Level I Pediatric Trauam Center",
+    "latitude": 36.0895869,
+    "longitude": -80.2685787
+  },
+  {
+    "name": "Walter Reed National Military Medical Center",
+    "level": "Level II Trauma Center",
+    "latitude": 39.0005216,
+    "longitude": -77.0933654
+  },
+  {
+    "name": "Waterbury Hospital",
+    "level": "Level II Trauma Center",
+    "latitude": 41.5594888,
+    "longitude": -73.059081
+  },
+  {
+      "name": "Wesley Medical Center",
+      "level": "Level I Adult, Level II Pediatric Trauma Center",
+      "latitude": 37.6952735,
+      "longitude": -97.2977831
+  },
+  {
+    "name": "West Chester Hospital",
+    "level": "Level III Trauma Center",
+    "latitude": 39.358299,
+    "longitude": -84.367845
+  },
+  {
+    "name": "West Virginia University Hospitals",
+    "level": "Level I Adult, Level II Pediatric Trauma Center",
+    "latitude": 39.6534151,
+    "longitude": -79.9573549
+  },
+  {
+    "name": "Westchester Medical Center",
+    "level": "Level I Adult, Level I Pediatric Trauam Center",
+    "latitude": 41.0866823,
+    "longitude": -73.8062176
+  },
+  {
+    "name": "Wheeling Hospital",
+    "level": "Level II Trauma Center",
+    "latitude": 40.0588459,
+    "longitude": -80.6850467
+  },
+  {
+    "name": "William W. Backus Hospital",
+    "level": "Level III Trauma Center",
+    "latitude": 41.5430114,
+    "longitude": -72.0879807
+  },
+  {
+    "name": "Winthrop University Hospital",
+    "level": "Level I Trauma Center",
+    "latitude": 40.7492678,
+    "longitude": -73.6406845
+  },
+  {
+    "name": "Wyoming Medical Center",
+    "level": "Level II Trauma Center",
+    "latitude": 42.8480662,
+    "longitude": -106.3079844
+  },
+  {
+    "name": "Yale-New Haven Hospital",
+    "level": "Level I Adult, Level I Pediatric Trauam Center",
+    "latitude": 41.3045436,
+    "longitude": -72.9357954
+  },
+  {
+    "name": "Zuckerberg San Francisco General Hospital and Trauma Center",
+    "level": "Level I Trauma Center",
+    "latitude": 37.7189657,
+    "longitude": -122.401128
+  }
+]
